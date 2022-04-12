@@ -1,0 +1,5 @@
+#nodse
+node_modules
+
+#enviroment variabble
+.env
